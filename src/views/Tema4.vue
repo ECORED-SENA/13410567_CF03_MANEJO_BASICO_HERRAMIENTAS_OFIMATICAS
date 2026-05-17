@@ -4,20 +4,16 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
-        span 1
-      h1 Titulo de primer nivel
-
-
-
-
+        span 4
+      h1 Tema 4
 
 </template>
 
 <script>
 export default {
-  name: 'Tema1',
+  name: 'Tema3',
   data: () => ({
-    mostrarIndicadorTarjetaAudio: true,
+    // variables de vue
   }),
   mounted() {
     this.$nextTick(() => {

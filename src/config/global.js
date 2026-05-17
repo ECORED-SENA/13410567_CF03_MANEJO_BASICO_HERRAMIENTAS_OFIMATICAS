@@ -1,7 +1,8 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Uso de herramientas ofimáticas – Microsoft PowerPoint',
+    Description:
+      'Este componente formativo aborda el uso del presentador de diapositivas Microsoft PowerPoint, permitiendo al aprendiz diseñar, estructurar y presentar información mediante el uso de herramientas de formato, inserción de elementos, animaciones y transiciones, aplicadas en contextos académicos y laborales para una comunicación clara y efectiva.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +13,14 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
       },
     ],
   },
@@ -31,13 +40,33 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Conceptos de presentaciones',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Importancia de las presentaciones',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Uso en contextos académicos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Uso de contextos laborales',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Tipos de presentaciones',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Uso combinado de herramientas ofimáticas',
+            hash: 't_1_5',
           },
         ],
       },
@@ -45,13 +74,46 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Interfaz y entorno de trabajo de PowerPoint',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Interfaz y entorno de trabajo',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Panel de diapositivas',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Área de diseño',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Barra de herramientas',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Flujo de trabajo digital',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Diseño y creación de diapositivas',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Inserción de elementos y presentación',
         desarrolloContenidos: true,
       },
     ],

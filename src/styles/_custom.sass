@@ -104,6 +104,42 @@ figcaption
 /*Pestanas*/
 
 
+/*Accordion*/
+.tarjeta.acordeonA
+  background-color: #E2DCF9 !important
+  transition: background-color 0.3s ease-in-out
+  
+  .acordion__header
+    .acordion__titulo
+      h3, h4, span, a, p
+        color: #000000 !important
 
+  &.acordion__activo
+    background-color: #FEEAA5 !important
+    .acordion__header
+      .acordion__titulo
+        h3, h4, span, a, p
+          color: #000000 !important
+    
+    .acordion__contenido
+      p, li, span
+        color: #000000 !important
 
+.acordion__accion__btn--a
+  background-color: #FFA808 !important 
+  i
+    color: #000 !important
 
+.acordeonA
+  position: relative  
+  width: 100%  
+  p, h4
+    padding-left: 4.3rem !important 
+  .lista-ul
+    padding-left: 4.3rem
+    li
+      display: flex
+      align-items: flex-start
+      i
+        padding-top: 1px   
+/*Fin Accordion*/

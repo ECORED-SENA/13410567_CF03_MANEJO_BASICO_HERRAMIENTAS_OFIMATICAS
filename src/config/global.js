@@ -136,11 +136,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -172,14 +167,47 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Barra de herramientas',
+      significado:
+        'Conjunto de iconos, botones y menús ubicados en la parte superior de una ventana que permiten acceder rápidamente a las funciones más comunes del programa, como crear, editar o manipular documentos o imágenes.',
+    },
+    {
+      termino: 'Diapositiva',
+      significado:
+        'Hoja que forma parte de una presentación física o digital y que muestra información organizada para el público, comúnmente utilizada en conferencias, exposiciones y presentaciones similares.',
+    },
+    {
+      termino: 'Power Point',
+      significado:
+        'Programa de software desarrollado por Microsoft que permite crear presentaciones visuales para fines profesionales, educativos o personales.',
+    },
+    {
+      termino: 'Presentación digital',
+      significado:
+        'Pase de diapositivas creado en Microsoft PowerPoint, compuesto por una serie de diapositivas que integran texto, imágenes, gráficos, videos y otros recursos para organizar la información y guiar al público.',
+    },
+    {
+      termino: 'Plantillas',
+      significado:
+        'Base de una presentación de PowerPoint que incluye un tema y diseños de diapositivas, ya sea mediante opciones predeterminadas o personalizadas.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Anderson, M. (2025, julio 3). ¿Qué es una presentación de PowerPoint? Ejemplos, usos y cómo crear una más rápido en 2026. Autoppt. ',
+      link: 'https://autoppt.com/es/blog/what-is-a-powerpoint-presentation/ ',
+    },
+    {
+      referencia:
+        'García, C. (2024, octubre 28). Qué es PowerPoint y para qué sirve. Femxa. ',
+      link: 'https://www.cursosfemxa.es/blog/que-es-powerpoint ',
+    },
+    {
+      referencia:
+        'Lee-Ann. (2020, diciembre 3). Diferencia entre plantillas, temas y diseños de PowerPoint. PPT Productivity. ',
+      link:
+        'https://pptproductivity.com/es/blog/difference-powerpoint-templates-themes-layouts',
     },
   ],
   creditos: [

@@ -283,7 +283,6 @@
             .col-lg-7.order-1.mb-3.mb-lg-0
               h4 Revisar
               p La pestaña Revisar permite verificar y corregir el contenido. Entre sus herramientas principales se encuentran:
-
               ul.lista-ul.mb-0
                 li.d-flex
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Inserción de elementos y presentación
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-lg-12
         .d-flex.flex-column.flex-lg-row.align-items-center.p-4.rounded-4           

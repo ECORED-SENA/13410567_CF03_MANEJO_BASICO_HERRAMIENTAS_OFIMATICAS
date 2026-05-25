@@ -177,7 +177,7 @@ export default {
         'Hoja que forma parte de una presentación física o digital y que muestra información organizada para el público, comúnmente utilizada en conferencias, exposiciones y presentaciones similares.',
     },
     {
-      termino: 'Power Point',
+      termino: 'PowerPoint',
       significado:
         'Programa de software desarrollado por Microsoft que permite crear presentaciones visuales para fines profesionales, educativos o personales.',
     },

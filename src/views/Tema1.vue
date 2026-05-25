@@ -123,10 +123,10 @@
                 .flex-grow-1.text-center.text-lg-start            
                   p.mb-0 De esta manera, las presentaciones se consolidan como un recurso clave para fortalecer los procesos educativos y mejorar la calidad de las exposiciones en distintos niveles de formación.
           Separador
-          //- Inicio Tema1.2
+          //- Inicio Tema1.3
           .row.mt-5
-              #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-                h2 1.2 Uso en contextos laborales
+              #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 1.3 Uso en contextos laborales
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-7.p-3.p-sm-4.p-md-5.mb-3.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img5.png')})`}"

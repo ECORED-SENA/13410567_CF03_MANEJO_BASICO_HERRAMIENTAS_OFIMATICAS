@@ -20,7 +20,7 @@ export default {
       tema: 'Reconocimiento del manejo de la interfaz de Microsoft PowerPoint',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Reconocer los elementos principales de la interfaz de Microsoft PowerPoint.',
+        '<b> Objetivo:</b> reconocer los elementos principales de la interfaz de Microsoft PowerPoint.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -435,7 +435,7 @@ export default {
             {
               id: 'c',
               texto: 'Revisar.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'd',

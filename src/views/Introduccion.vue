@@ -11,10 +11,11 @@
       .col-lg-7
         .row.align-items-start.mb-3(data-aos="fade-left")
           .col-lg
-          p.mb-0 Las tecnologías de la información y la comunicación han transformado de manera significativa la forma en que las personas acceden, procesan y transmiten la información en diferentes contextos. En este sentido, el uso de herramientas ofimáticas se ha convertido en una competencia fundamental tanto en el ámbito académico como en el entorno laboral, permitiendo optimizar procesos, mejorar la comunicación y facilitar la presentación de contenidos de manera estructurada y comprensible.
+          p.mb-0 Las tecnologías de la información y la comunicación han transformado la manera en que se gestiona la información, haciendo que el uso de herramientas ofimáticas sea una competencia clave en contextos académicos y laborales. En este marco, programas como Microsoft PowerPoint adquieren relevancia al permitir organizar y presentar información de forma clara, visual y estructurada, integrando diversos elementos como texto, imágenes y recursos multimedia.
         .row.align-items-start.mb-10(data-aos="fade-left")
           .col-lg
-            p.p-4.bg-color-2(data-aos="fade-left") Las tecnologías de la información y la comunicación han transformado la manera en que se gestiona la información, haciendo que el uso de herramientas ofimáticas sea una competencia clave en contextos académicos y laborales. En este marco, programas como Microsoft PowerPoint adquieren relevancia al permitir organizar y presentar información de forma clara, visual y estructurada, integrando diversos elementos como texto, imágenes y recursos multimedia.
+            p.p-4.bg-color-2(data-aos="fade-left") Las tecnologías de la información y la comunicación han transformado de manera significativa la forma en que las personas acceden, procesan y transmiten la información en diferentes contextos. En este sentido, el uso de herramientas ofimáticas se ha convertido en una competencia fundamental tanto en el ámbito académico como en el entorno laboral, permitiendo optimizar procesos, mejorar la comunicación y facilitar la presentación de contenidos de manera estructurada y comprensible.
+            
       .col-lg-5.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/intro/img1.png", data-aos="zoom-in" style="max-width: 458px")

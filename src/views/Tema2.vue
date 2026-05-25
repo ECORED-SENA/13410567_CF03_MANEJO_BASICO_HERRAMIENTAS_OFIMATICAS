@@ -315,10 +315,10 @@
                   p.mb-0 <b>Vista de lectura:</b> permite revisar el contenido en formato de presentación.
     //- Fin Slideshow
     Separador
-    //- Inicio Tema2.4
+    //- Inicio Tema2.5
     .row.mt-5
-      #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.4 Flujo de trabajo digital
+      #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.5 Flujo de trabajo digital
     .row.justify-content-center.align-items-stretch.mb-3.g-0.bg-color-4(data-aos="fade-left")      
       .col-lg-7.bg-color-3.d-flex.align-items-center.p-4.p-lg-5
         p.mb-0 El flujo de trabajo digital en PowerPoint hace referencia al proceso ordenado que sigue el usuario para la creación de una presentación, desde la planificación del contenido hasta su exposición final. Este enfoque permite estructurar las actividades de manera lógica, facilitando el uso eficiente de la herramienta. 

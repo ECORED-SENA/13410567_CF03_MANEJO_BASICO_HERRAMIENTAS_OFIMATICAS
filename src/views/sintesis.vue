@@ -7,7 +7,7 @@
         h3.mb-1 Manejo básico de herramientas ofimáticas I
         p.mb-0 
           | Síntesis:           
-          | uso de herramientas ofimáticas – Microsoft PowerPoint
+          | Uso de herramientas ofimáticas – Microsoft PowerPoint
     p.mt-5 A continuación, se presenta a manera de síntesis, un esquema que articula los elementos principales abordados en el desarrollo del componente formativo.
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad

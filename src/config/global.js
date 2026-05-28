@@ -3,7 +3,7 @@ export default {
     Name: 'Uso de herramientas ofimáticas – Microsoft PowerPoint',
     Description:
       'Este componente formativo aborda el uso del presentador de diapositivas Microsoft PowerPoint, permitiendo al aprendiz diseñar, estructurar y presentar información mediante el uso de herramientas de formato, inserción de elementos, animaciones y transiciones, aplicadas en contextos académicos y laborales para una comunicación clara y efectiva.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

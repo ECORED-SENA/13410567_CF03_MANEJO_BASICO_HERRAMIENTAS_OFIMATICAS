@@ -145,13 +145,13 @@
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
+            .col-lg-8.order-2
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 4.
                 span Inicio
               figure
-                img(src="@/assets/curso/tema2/slide01_1.png", alt='Captura de la pestaña Inicio con grupos de herramientas como portapapeles, diapositivas, fuente, párrafo y opciones de dibujo.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+                img(src="@/assets/curso/tema2/img1.jpg", alt='Captura de la pestaña Inicio con grupos de herramientas como portapapeles, diapositivas, fuente, párrafo y opciones de dibujo.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Inicio
               p La pestaña Inicio contiene las herramientas básicas para la edición de diapositivas. Entre sus grupos principales se encuentran:
               ul.lista-ul.mb-0
@@ -171,13 +171,13 @@
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")
                   p.mb-0 <b>Dibujo:</b> permite insertar formas y organizar elementos.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
-              .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 5.
-                span Insertar
-              figure
-                img(src="@/assets/curso/tema2/slide01_2.png", alt='Captura de la pestaña Insertar con opciones para agregar cuadros de texto, imágenes, formas, iconos, gráficos y elementos multimedia.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+            .col-lg-8.order-2
+                .titulo-sexto.color-acento-contenido.mb-3
+                  h5 Figura 5.
+                  span Insertar
+                figure
+                  img(src="@/assets/curso/tema2/img2.jpg", alt='Captura de la pestaña Insertar con opciones para agregar cuadros de texto, imágenes, formas, iconos, gráficos y elementos multimedia.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Insertar
               p La pestaña Insertar permite agregar diferentes elementos a las diapositivas. Entre sus herramientas principales se encuentran:
               ul.lista-ul.mb-0
@@ -194,13 +194,13 @@
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")
                   p.mb-0 <b>Multimedia:</b> permite agregar audio y video.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
+            .col-lg-8.order-2
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 6.
                 span Diseño
               figure
-                img(src="@/assets/curso/tema2/slide01_3.png", alt='Captura de la pestaña Diseño con temas visuales, variantes de estilo, combinaciones de colores y opciones de fondo de diapositiva.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+                img(src="@/assets/curso/tema2/img3.jpg", alt='Captura de la pestaña Diseño con temas visuales, variantes de estilo, combinaciones de colores y opciones de fondo de diapositiva.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Diseño
               p La pestaña Diseño permite modificar la apariencia general de la presentación. Entre sus opciones principales se encuentran:
               ul.lista-ul.mb-0
@@ -214,13 +214,13 @@
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")
                   p.mb-0 <b>Fondo:</b> permite personalizar el fondo de las diapositivas.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
+            .col-lg-8.order-2
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 7.
                 span Transiciones
               figure
-                img(src="@/assets/curso/tema2/slide01_4.png", alt='Captura de la pestaña Transiciones con efectos de cambio entre diapositivas, opciones de duración y aplicación a toda la presentación.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+                img(src="@/assets/curso/tema2/img4.jpg", alt='Captura de la pestaña Transiciones con efectos de cambio entre diapositivas, opciones de duración y aplicación a toda la presentación.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Transiciones
               p La pestaña Transiciones permite aplicar efectos al cambio entre diapositivas. Entre sus funciones principales se encuentran:
               ul.lista-ul.mb-0
@@ -234,13 +234,13 @@
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")
                   p.mb-0 <b>Aplicar a todas</b>: permite usar el mismo efecto en toda la presentación.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
+            .col-lg-8.order-2
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 8.
                 span Animaciones
               figure
-                img(src="@/assets/curso/tema2/slide01_5.png", alt=' Captura de la pestaña Animaciones con efectos de entrada, énfasis y salida, junto con el panel de animación y controles de tiempo.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+                img(src="@/assets/curso/tema2/img5.jpg", alt=' Captura de la pestaña Animaciones con efectos de entrada, énfasis y salida, junto con el panel de animación y controles de tiempo.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Animaciones
               p La pestaña Animaciones permite aplicar efectos a los elementos dentro de la diapositiva. Entre sus herramientas principales se encuentran:
               ul.lista-ul.mb-0
@@ -254,13 +254,13 @@
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")
                   p.mb-0 <b>Control de tiempo:</b> permite definir la duración y el orden.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
+            .col-lg-8.order-2
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 9.
                 span Presentación con diapositivas
               figure
-                img(src="@/assets/curso/tema2/slide01_6.png", alt='Captura de la pestaña de presentación con opciones para iniciar la exposición, configurar parámetros y ensayar tiempos de diapositivas.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+                img(src="@/assets/curso/tema2/img6.jpg", alt='Captura de la pestaña de presentación con opciones para iniciar la exposición, configurar parámetros y ensayar tiempos de diapositivas.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Presentación con diapositivas
               p La pestaña Presentación con diapositivas permite ejecutar y configurar la presentación. Entre sus funciones principales se encuentran:
               ul.lista-ul.mb-0
@@ -274,13 +274,13 @@
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")
                   p.mb-0 <b>Ensayo de tiempos:</b> permite practicar la duración de cada diapositiva.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
+            .col-lg-8.order-2
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 10.
                 span Revisar
               figure
-                img(src="@/assets/curso/tema2/slide01_7.png", alt='Captura de la pestaña Revisar con herramientas de ortografía, gramática, comentarios y opciones de revisión de contenido.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+                img(src="@/assets/curso/tema2/img7.jpg", alt='Captura de la pestaña Revisar con herramientas de ortografía, gramática, comentarios y opciones de revisión de contenido.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Revisar
               p La pestaña Revisar permite verificar y corregir el contenido. Entre sus herramientas principales se encuentran:
               ul.lista-ul.mb-0
@@ -294,13 +294,13 @@
                   i.fas.fa-check-circle.me-3(style="color:#AD9721")
                   p.mb-0 <b>Revisión de texto:</b> permite mejorar la redacción.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-2
+            .col-lg-8.order-2
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 11.
                 span Vista
               figure
-                img(src="@/assets/curso/tema2/slide01_8.png", alt='Captura de la pestaña Vista con modos de visualización como normal, clasificador de diapositivas y vista de lectura.')
-            .col-lg-7.order-1.mb-3.mb-lg-0
+                img(src="@/assets/curso/tema2/img8.jpg", alt='Captura de la pestaña Vista con modos de visualización como normal, clasificador de diapositivas y vista de lectura.')
+            .col-lg-4.order-1.mb-3.mb-lg-0
               h4 Vista
               p La pestaña Vista permite cambiar la forma en que se organiza la presentación en pantalla. Entre sus opciones principales se encuentran:
               ul.lista-ul.mb-0

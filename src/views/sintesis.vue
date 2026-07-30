@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.mb-5
       .col-12.ps-3(style="border-left: 10px solid #39A900;") 
-        h3.mb-1 Manejo básico de herramientas ofimáticas I
+        h3.mb-1 Manejo de herramientas ofimáticas para la productividad digital
         p.mb-0 
           | Síntesis:           
           | Uso de herramientas ofimáticas – Microsoft PowerPoint

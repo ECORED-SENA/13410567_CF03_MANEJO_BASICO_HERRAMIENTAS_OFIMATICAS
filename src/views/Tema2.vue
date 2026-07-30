@@ -105,27 +105,27 @@
     //- Inicio Tema2.3
     .row.mt-5
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.3 Area de diseño
+        h2 2.3 Área de diseño
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-4.p-3.p-sm-4.p-md-5.mb-3
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img5.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 El área de diseño corresponde al espacio central de la interfaz donde se crea y edita cada diapositiva. En esta sección se insertan y organizan los distintos elementos que componen la presentación, como texto, imágenes, gráficos y otros recursos visuales.
-    .row.justify-content-center.mb-4(data-aos="fade-left")
+    .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
         .d-flex.flex-column.flex-lg-row.align-items-center.p-4.rounded-4           
           .flex-shrink-0.mb-3.mb-lg-0.pe-lg-4
             img(src='@/assets/curso/fondos/lineas.svg', style="width: 80px")          
           .flex-grow-1.text-center.text-lg-start            
             p.mb-0 Este espacio permite trabajar directamente sobre el contenido, facilitando la edición, el ajuste de elementos y la aplicación de formatos. Además, presenta una representación fiel de cómo se dispondrá la diapositiva durante la exposición. Dado su carácter central, el área de diseño se constituye como el principal espacio de trabajo, ya que en ella se desarrolla la mayor parte del contenido de la presentación.
-    .row.mb-5.justify-content-center.mt-5(data-aos="fade-left")
+    .row.justify-content-center.mt-4(data-aos="fade-left")
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 3.
-          span Barra de herramientas
+          span Área de diseño
         figure
-          img(src='@/assets/curso/tema2/img6.png', alt='Captura del panel lateral izquierdo con miniaturas de diapositivas organizadas en secuencia para navegación y control del orden.')
+          img(src='@/assets/curso/tema2/img6.png', alt='Captura del área central de trabajo con una diapositiva activa que incluye cuadros de texto, marcadores de posición y elementos editables.')
     Separador
     //- Inicio Tema2.4
     .row.mt-5
